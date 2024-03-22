@@ -1,0 +1,13 @@
+__pycache__/
+
+staticfiles/
+
+.venv
+venv
+ENV
+
+*.DS_Store
+
+.pytest_cache
+.env
+.envs
